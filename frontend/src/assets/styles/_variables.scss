@@ -1,0 +1,21 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&display=swap');
+
+//
+$success: #8bc34a;
+$warning: #ffcc00;
+$danger: tomato;
+$info: #607d8b;
+
+//Colors
+$colors: (
+	purple: #9c7fe8,
+	light-purple: #fcf7ff,
+	deep-purple: #150d22,
+	light-yellow: #fffade,
+	black: #000000,
+	white: #ffffff,
+) !default;
+
+//Fonts Family
+$main-font-family: 'Roboto', sans-serif;
+$second-font-family: 'Helvetica Neue', Arial, 'Noto Sans', sans-serif;

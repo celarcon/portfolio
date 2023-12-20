@@ -1,0 +1,26 @@
+html {
+	background: map-get($colors, deep-purple);
+	color: map-get($colors, light-purple);
+	font-family: $main-font-family;
+	font-weight: 500;
+}
+
+body {
+	padding: 1rem;
+}
+
+.flex {
+	display: flex;
+}
+
+.jusfy-content-center {
+	justify-content: center;
+}
+
+.align-items-center {
+	align-items: center;
+}
+
+.jusfy-content-space-around {
+	justify-content: space-around;
+}
